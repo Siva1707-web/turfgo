@@ -1,0 +1,66 @@
+name: turfgo
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.12.0
+  firebase_auth: ^5.5.0
+  cloud_firestore: ^5.6.4
+  shared_preferences: ^2.5.2
+  firebase_database: ^11.1.6
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
+  google_fonts: ^6.1.0
+  lucide_icons: ^0.257.0
+  image_picker: ^1.0.7
+  intl: ^0.20.2
+  share_plus: ^7.2.1
+  qr_flutter: ^4.1.0
+  pdf: ^3.10.4
+  permission_handler: ^11.0.1
+  url_launcher: ^6.3.1
+  path_provider: ^2.1.5
+  firebase_storage: ^12.4.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sun_turf.jpg
+    - assets/default_profile.png
+    - assets/default_image.jpg
+    - assets/google_logo.png
+    - assets/gpay_logo.png
+    - assets/gpay_qr.png
+    - assets/phonepe_qr.png
+    - assets/paytm_logo.png
+    - assets/upi_logo.png
+    - assets/logo.png
+  fonts:
+    - family: Kenia-Regular
+      fonts:
+        - asset: fonts/Kenia-Regular.ttf
+    - family: SF-Pro
+      fonts:
+        - asset: assets/fonts/SF-Pro.ttf
+    - family: Satoshi
+      fonts:
+        - asset: fonts/Satoshi-Variable.ttf
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
