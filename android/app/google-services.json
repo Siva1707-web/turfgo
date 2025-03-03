@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "986966710092",
+    "project_id": "turfgo-23f1a",
+    "storage_bucket": "turfgo-23f1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986966710092:android:135bf7e92dce7b3280a1e9",
+        "android_client_info": {
+          "package_name": "com.example.turfgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986966710092-km3uifjgrbhec2slau2dfbr9gk29a4rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhk-AQnldF6eZkDrJo1dxesu8Tb9w6SWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986966710092-km3uifjgrbhec2slau2dfbr9gk29a4rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986966710092:android:8f3b79fb54042a1f80a1e9",
+        "android_client_info": {
+          "package_name": "com.example.turfgo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986966710092-km3uifjgrbhec2slau2dfbr9gk29a4rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhk-AQnldF6eZkDrJo1dxesu8Tb9w6SWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986966710092-km3uifjgrbhec2slau2dfbr9gk29a4rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
